@@ -4,7 +4,7 @@
     {
       "src": "launcher-icon-3x.png",
       "sizes": "144x144",
-      "type": "image/png",
+      "type": "image/png"
     }
   ],
   "theme_color": "#9E9E9E",
